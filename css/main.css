@@ -115,7 +115,7 @@ box-sizing: border-box;
     
  }
 
- .header .logo {
+ .header .header-logo {
     width:70px;
     height:70px;
 }
@@ -238,7 +238,7 @@ top: -20px;
 
 .landing{
     position: relative;
-    background-image: url(../images/Mountin\ horizantal.jpg);
+    background-image: url(../landing.jpg);
     background-size: cover;
     height: calc(100vh + 110px);
     margin: 0;
@@ -249,7 +249,7 @@ top: -20px;
 .landing .intro-text {
 position: absolute;
 left:50%;
-top: 50%;
+top: 15%;
 transform: translate(-50%, -0%);
 text-align: center;
 color: #eee;
@@ -354,7 +354,7 @@ color:rgb(0, 12, 114)
     line-height: 1.8;
     color:#444
  }
- .services .services-content .image {
+ .services .services-content .service-image {
     position: relative;
     text-align: center;
     height: 270px;
@@ -367,7 +367,7 @@ color:rgb(0, 12, 114)
     content: "";
     width: 80px;
     height: 412px;
-    background-color: rgb(233, 2, 137);
+    background-color: rgb(2 109 94);
     top: -50px;
     right: -120px;
 }  
