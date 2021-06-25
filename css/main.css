@@ -115,10 +115,12 @@ box-sizing: border-box;
     
  }
 
- .header .header-logo {
-    width:70px;
-    height:70px;
-}
+ .header .fa-cpanel:before {
+    font-size: 65px;
+    color: #009688;
+
+
+
 .header .links {
     position:relative;
    
